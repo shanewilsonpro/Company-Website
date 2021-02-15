@@ -1,0 +1,43 @@
+body {
+  font-family: Arvo, serif;
+  background: url(https://cdn.hipwallpaper.com/i/15/72/BMuRpJ.jpg) no-repeat center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.navbar {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.nav-item {
+  color: #fff;
+  font-size: 17px;
+  margin-right: 10px;
+  padding: 10px 0;
+}
+
+.nav-item:hover {
+  border-bottom: 1px solid turquoise;
+  padding-bottom: 9px;
+  cursor: pointer;
+}
+
+.logo  {
+  width: 50px;
+  height: 40px;
+}
+
+.jumbotron {
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+  background-color: transparent;
+  border-radius: .3rem;
+  letter-spacing: 2.5px;
+  color: black;
+  padding-top: 50px;
+}
+
+.container h1 {
+  font-size: 70px;
+}
