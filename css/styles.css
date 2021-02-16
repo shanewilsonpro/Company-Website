@@ -1,6 +1,6 @@
 body {
   font-family: Arvo, serif;
-  background: url(https://cdn.hipwallpaper.com/i/15/72/BMuRpJ.jpg) no-repeat center center;
+  background: url(https://freenaturestock.com/wp-content/uploads/freenaturestock-1762-1024x683.jpg) no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -34,10 +34,66 @@ body {
   background-color: transparent;
   border-radius: .3rem;
   letter-spacing: 2.5px;
-  color: black;
+  color: white;
   padding-top: 50px;
 }
 
 .container h1 {
   font-size: 70px;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+.bodyimage {
+  height: 220px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.col-md-4 {
+  text-align: center;
+  color: white;
+}
+
+.icons {
+  margin-top: 50px;
+}
+
+.icons p {
+  font-size: 15px;
+}
+
+.contact {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
+.btn {
+  background-color: rgba(0, 255, 184, 0.5);
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px 70px;
+  letter-spacing: 1.3px;
+}
+
+.btn:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: grey;
+  font-size: 15px;
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 30px 0;
 }
